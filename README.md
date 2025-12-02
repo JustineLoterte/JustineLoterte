@@ -1,0 +1,31 @@
+# 👋 Hi there, I'm Justine R. Loterte !
+
+Welcome to my corner of GitHub! I'm a **2nd Year BSIT student** fueled by curiosity and a love for technology. I thrive on turning ideas into working solutions, exploring new programming languages, tinkering with databases, and discovering tools that make coding fun and efficient.  
+
+When I'm not coding, you'll find me experimenting with tech projects, solving challenging problems, or learning something new to level up my skills. 
+
+---
+
+## 🏷️ Name
+**Justine R. Loterte**
+
+---
+
+## 🎓 Education
+**Bachelor of Science in Information Technology (BSIT)**  
+New Era University | 2024 – Present
+
+---
+
+## 📜 Certifications
+[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a722efc30f7e4c07800a27af30946144#)
+
+
+## 💻 Skillsets
+- HTML  
+- Java  
+- SQL  
+- Lucidchart  
+- Visual Studio Code
+- Figma
+
