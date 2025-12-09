@@ -21,6 +21,7 @@ New Era University | 2024 – Present
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a722efc30f7e4c07800a27af30946144#)
 
 [ Become An OCI Foundations Associate (2025) ](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7E5B48A6A3AE6E2797155DC8E539192FB731FA43C35733CD328730B0288954C0)
+
 ## 💻 Skillsets
 - HTML  
 - Java  
