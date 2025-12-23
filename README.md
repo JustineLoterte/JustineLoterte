@@ -24,6 +24,9 @@ New Era University | 2024 – Present
 
 [ Become an Oracle Data Platform Foundations Associate (2025) ](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0C23E0AC5B493C8BEE8A6E600D09B8E908345AF7B91047BB6C01D43264D1D450)
 
+[Become An OCI AI Foundations Associate (2025) ](https://catalog-education.oracle.com/ords/certview/sharebadge?id=360B6E911D61AA2312B6246185227763A16ED1FA351BB84DCED3E48A6052515D)
+
+
 ## 💻 Skillsets
 - HTML  
 - Java  
