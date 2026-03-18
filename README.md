@@ -30,8 +30,9 @@ New Era University | 2024 – Present
 ## 💻 Skillsets
 - HTML  
 - Java  
-- SQL  
-- Lucidchart  
-- Visual Studio Code
-- Figma
+- SQL
+
+## 🛠️ Personal Project
+neu-library-log.infinityfree.me
+
 
