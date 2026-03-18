@@ -33,6 +33,6 @@ New Era University | 2024 – Present
 - SQL
 
 ## 🛠️ Personal Project
-neu-library-log.infinityfree.me
+[Library Log System](https://neu-library-log.infinityfree.me/)
 
 
