@@ -26,6 +26,8 @@ New Era University | 2024 – Present
 
 [Become An OCI AI Foundations Associate (2025) ](https://catalog-education.oracle.com/ords/certview/sharebadge?id=360B6E911D61AA2312B6246185227763A16ED1FA351BB84DCED3E48A6052515D)
 
+[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/86712148ce794b5582e8efc216063a05)
+
 
 ## 💻 Skillsets
 - HTML  
